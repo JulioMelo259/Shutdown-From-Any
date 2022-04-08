@@ -1,2 +1,4 @@
 # Shutdown-From-Any
-Desliga o computador automaticamente pelo celular apos mudança num poste do Blog
+Este codigo possibilita desligar o computador após ser verificado uma mudança num post de uma pagina de Blogger especificada.
+
+
