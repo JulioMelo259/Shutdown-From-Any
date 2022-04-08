@@ -1,4 +1,4 @@
-# Shutdown-From-Any
+# Shutdown
 **Este codigo possibilita desligar o computador após ser verificado uma mudança em num post de uma pagina de Blogger especificada.**
 
 Exemplo de postagem dentro do blogger: 
