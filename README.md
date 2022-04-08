@@ -1,9 +1,21 @@
 # Shutdown-From-Any
-Este codigo possibilita desligar o computador após ser verificado uma mudança num post de uma pagina de Blogger especificada.
+**Este codigo possibilita desligar o computador após ser verificado uma mudança em num post de uma pagina de Blogger especificada.**
 
-Exemplo: 
+Exemplo de postagem dentro do blogger: 
 
 
-![alt text](https://i.ibb.co/87ZW46G/DESLIGADO.png)
+![Computador Ligado](https://iili.io/M4Gzq7.png)
+
+
+
+
+![Computador Desligado](https://iili.io/M4GTge.png)
+
+
+**Requisitos**:
+
+1: Python 3.10+   
+2: BS4    
+3: Urllib   
 
 
